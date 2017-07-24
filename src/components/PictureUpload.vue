@@ -11,7 +11,7 @@
         <span>上传图片</span>
         <input @change='add_img'  type="file">
       </div>
-<button @click = 'info()'>点击</button>
+
     </div>
   </div>
 </template>
