@@ -21,6 +21,13 @@ npm run build --report
 ## 使用组件
 
 #### 通过 npm install picture-upload --save 安装到相应的项目下
+#### 环境
+``` bash
+
+"webpack": "^2.6.1",
+"vue": "^2.3.3"
+
+```
 
 #### 需要用到该组件时(下面是一个demo)
 	
