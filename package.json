@@ -1,6 +1,6 @@
 {
   "name": "picture-upload",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "This is a component for picture uploaded by base64",
   "author": "zfl <1171067930@qq.com>",
   "main": "dist/picture-upload.min.js",
