@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <PictureUpload v-on:imgInfo = 'getInfo()'></PictureUpload>
+    <PictureUpload v-on:imgInfo = 'getInfo'></PictureUpload>
   </div>
 </template>
 
